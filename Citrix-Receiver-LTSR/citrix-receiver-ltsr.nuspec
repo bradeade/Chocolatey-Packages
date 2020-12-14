@@ -8,7 +8,7 @@
     <owners>Brad Eade</owners>
     <projectUrl>https://www.citrix.com/downloads/citrix-receiver/windows-ltsr/receiver-for-windows-ltsr-latest.html</projectUrl>
     <licenseUrl>http://www.citrix.com/buy/licensing/agreements.html</licenseUrl>
-    <iconUrl>https://raw.githubusercontent.com/bradeade/Chocolatey-Packages/main/Citrix-Receiver-LTSR/Citrix-Receiver.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/bradeade/Chocolatey-Packages/4e6ac166989e4568469db1cb2d486f8008a6990a/Citrix-Receiver-LTSR/Citrix-Receiver.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>High performance access to Windows virtual apps and desktops, anywhere access from your desktop, start menu, Receiver UI or web access with Chrome, Internet Explorer or Firefox. Citrix Receiver can be used on domain and non-domain joined PCs, tablets, and thin clients. Provides high performance use of virtualized Skype for Business, line of business and HDX 3D Pro engineering apps, multimedia, local app access.</description>
     <projectSourceUrl>https://github.com/bradeade/Chocolatey-Packages/tree/main/Citrix-Receiver-LTSR</projectSourceUrl>
